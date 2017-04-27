@@ -1,0 +1,22 @@
+{
+  "name": "twitter-notes",
+  "version": "1.0.0",
+  "description": "An application for leaving notes on Twitter friends and followers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilgarg459/twitter-notes.git"
+  },
+  "author": "Nikhil Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilgarg459/twitter-notes/issues"
+  },
+  "homepage": "https://github.com/nikhilgarg459/twitter-notes#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
